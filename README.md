@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,15,35&height=220&section=header&text=Sumit%20Duben&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Lead%20DevSecOps%20Engineer%20%7C%2011%2B%20Yrs%20Total%20%7C%205%2B%20Yrs%20DevSecOps&descAlignY=62&descAlign=50" alt="Sumit Duben Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0c2340,100:0078d4&height=220&section=header&text=Sumit%20Duben&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Lead%20DevSecOps%20Engineer%20%7C%2011%2B%20Yrs%20Total%20%7C%205%2B%20Yrs%20DevSecOps&descFontSize=20&descAlignY=62&descAlign=50" alt="Sumit Duben Banner" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/sumduben-devops">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=780&lines=Lead+DevSecOps+Engineer+%7C+11%2B+Yrs+Total+%7C+5%2B+Yrs+Dedicated+DevSecOps;Monolithic+to+Microservices+Architecture+Modernization+Specialist;Enterprise+Hub-and-Spoke+Network+Topologies+%26+Azure+Landing+Zones;Zero-Trust+Shift-Left+DevSecOps+Pipelines+(SAST%2C+DAST%2C+SCA%2C+IaC);100%2B+Enterprise+Workloads+Cloud+Migration+(Dev%2C+UAT%2C+Production);Multi-Layered+Defense-in-Depth+Security+Matrix+Enforcement;FinOps+Cost+Optimization+%7C+Cloud+Waste+Elimination" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=0078D4&center=true&vCenter=true&width=780&lines=Lead+DevSecOps+Engineer+%7C+11%2B+Yrs+Total+%7C+5%2B+Yrs+Dedicated+DevSecOps;Monolithic+to+Microservices+Architecture+Modernization+Specialist;Enterprise+Hub-and-Spoke+Network+Topologies+%26+Azure+Landing+Zones;Zero-Trust+Shift-Left+DevSecOps+Pipelines+(SAST%2C+DAST%2C+SCA%2C+IaC);100%2B+Enterprise+Workloads+Cloud+Migration+(Dev%2C+UAT%2C+Production);Multi-Layered+Defense-in-Depth+Security+Matrix+Enforcement;FinOps+Cost+Optimization+%7C+Cloud+Waste+Elimination" alt="Typing SVG" />
   </a>
 </p>
 
@@ -317,5 +317,5 @@ Whether you're modernizing a legacy monolith, architecting a resilient multi-ten
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,15,35&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0c2340,100:0078d4&height=100&section=footer" width="100%"/>
 </p>
